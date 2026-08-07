@@ -12,14 +12,12 @@
     <variant name="carousel-carousel-3D">
         <include>./../${performance}</include>
         <include>./../syscarousel.xml</include>
-        <include>./../c-3dbox.xml</include> 
-        <include>./custom.xml</include> 
+        <include>./../grid.xml</include>
     </variant>
     <variant name="carousel-carousel">
         <include>./../${performance}</include>
         <include>./../syscarousel.xml</include>
-        <include>./../c-cover.xml</include> 
-        <include>./custom.xml</include>
+        <include>./../grid.xml</include>
     </variant>
     <variant name="carousel-grid">
         <include>./../${performance}</include>
@@ -44,14 +42,12 @@
     <variant name="list-carousel-3D">
         <include>./../${performance}</include>
         <include>./../syslist.xml</include>
-        <include>./../c-3dbox.xml</include> 
-        <include>./custom.xml</include>
+        <include>./../grid.xml</include>
     </variant> 
     <variant name="list-carousel">
         <include>./../${performance}</include>
         <include>./../syslist.xml</include>
-        <include>./../c-cover.xml</include> 
-        <include>./custom.xml</include>
+        <include>./../grid.xml</include>
     </variant> 
     <variant name="grid-grid">
         <include>./../${performance}</include>
@@ -61,14 +57,12 @@
     <variant name="grid-carousel-3D">
         <include>./../${performance}</include>
         <include>./../sysgrid.xml</include>
-        <include>./../c-3dbox.xml</include> 
-        <include>./custom.xml</include>
+        <include>./../grid.xml</include>
     </variant> 
     <variant name="grid-carousel">
         <include>./../${performance}</include>
         <include>./../sysgrid.xml</include>
-        <include>./../c-cover.xml</include> 
-        <include>./custom.xml</include>
+        <include>./../grid.xml</include>
     </variant>
     <variant name="grid-list">
         <include>./../${performance}</include>
